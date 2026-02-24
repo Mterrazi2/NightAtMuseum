@@ -122,10 +122,7 @@ to allow scalable stealth behaviors and performance-conscious gameplay systems.
 </p>
 
 <div class="video-container">
-<iframe src="https://youtu.be/UQVCc1lE2Cw"
-frameborder="0"
-allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQVCc1lE2Cw?si=ZayQKnFvuriQEclD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <div class="tech">
